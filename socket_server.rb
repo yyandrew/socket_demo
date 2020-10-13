@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 require 'socket'
 
 server_socket = TCPServer.open(2000)

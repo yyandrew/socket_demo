@@ -4,5 +4,5 @@
 ## 客户端
 `socket_client.rb`打开一个连接到服务器的连接，读取服务端发送的数据打印数据之后关闭连接。
 # 运行示例
-1. 在terminal运行`ruby socket_server.rb`新建一个服务端socket
-2. 在另外一个terminal运行`ruby socket_client.rb`尝试连接到服务端，打印数据。
+1. 在terminal运行`./socket_server.rb`新建一个服务端socket
+2. 在另外一个terminal运行`./socket_client.rb`尝试连接到服务端，打印数据。
